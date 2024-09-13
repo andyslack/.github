@@ -7,7 +7,7 @@
 - Ask me about **Workflow Automation**
 
 ### 📫 How to reach me 
-<!-- Socials Links and Badges -->
+
 - Let's connect professionally on [Linkedin](https://www.linkedin.com/in/andrewslack/)
 - See what I've been upto on [Instagram](https://www.instagram.com/me_slack)
 
